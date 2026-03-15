@@ -8,6 +8,7 @@ class SiteFooter extends HTMLElement {
             <a href="support.html">Support</a>
             <a href="privacy.html">Datenschutz</a>
             <a href="imprint.html">Impressum</a>
+            <a href="terms.html">Nutzungsbedingungen</a>
             <a href="eula.html">EULA</a>
           </div>
           <p class="small muted">© 2026 LernFlash · Kai Wolfram</p>

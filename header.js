@@ -7,6 +7,7 @@ class SiteHeader extends HTMLElement {
       { key: "support", href: "support.html", label: "Support" },
       { key: "privacy", href: "privacy.html", label: "Datenschutz" },
       { key: "imprint", href: "imprint.html", label: "Impressum" },
+      { key: "terms", href: "terms.html", label: "Nutzungsbedingungen" },
       { key: "eula", href: "eula.html", label: "EULA" }
     ];
 

@@ -30,6 +30,7 @@ Direkte Links:
 * https://kaeptnslow.github.io/lernflash/support.html
 * https://kaeptnslow.github.io/lernflash/privacy.html
 * https://kaeptnslow.github.io/lernflash/imprint.html
+* https://kaeptnslow.github.io/lernflash/terms.html
 * https://kaeptnslow.github.io/lernflash/eula.html
 
 ---
