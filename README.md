@@ -43,43 +43,6 @@ Direkte Links:
 
 ---
 
-# 🖥 Website Architektur
-
-Die Website wird über **GitHub Pages** bereitgestellt und besteht aus einer kleinen statischen Struktur.
-
-```
-/
-├── index.html
-├── support.html
-├── privacy.html
-├── imprint.html
-└── styles.css
-```
-
-| Datei        | Beschreibung                  |
-| ------------ | ----------------------------- |
-| index.html   | Landingpage der App           |
-| support.html | Support- und Kontaktseite     |
-| privacy.html | Datenschutzrichtlinie         |
-| imprint.html | Impressum                     |
-| styles.css   | Zentrales CSS für alle Seiten |
-
----
-
-# 🛠 Technologie
-
-Die Website verwendet bewusst eine **sehr einfache technische Struktur**.
-
-Technologien:
-
-* HTML
-* CSS
-* GitHub Pages
-
-Es werden **keine Frameworks, Tracker oder externe Bibliotheken** verwendet.
-
----
-
 # 📬 Support
 
 Bei Fragen oder Problemen mit der App:
@@ -108,16 +71,6 @@ Deutschland
 Kontakt:
 
 [lernflash@posteo.de](mailto:lernflash@posteo.de)
-
----
-
-# 🚀 Deployment
-
-Die Website wird automatisch über **GitHub Pages** veröffentlicht.
-
-Nach Änderungen im Repository ist sie verfügbar unter:
-
-https://kaeptnslow.github.io/lernflash/
 
 ---
 
