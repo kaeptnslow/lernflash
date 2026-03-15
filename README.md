@@ -1,41 +1,119 @@
 # LernFlash
 
-LernFlash ist eine minimalistische iOS-App zum Lernen mit digitalen Flashcards.  
-Die App hilft dir dabei, Vokabeln effizient zu wiederholen und dauerhaft zu behalten.
+Minimalistische iOS-App zum Lernen mit digitalen Flashcards.
 
-## Features
+![Platform](https://img.shields.io/badge/platform-iOS-lightgrey)
+![Website](https://img.shields.io/badge/website-online-blue)
+![License](https://img.shields.io/badge/license-private-lightgrey)
 
-- 📚 Flashcards zum Lernen von Vokabeln
-- 🔁 Wiederholungsmodus für nachhaltiges Lernen
-- ⚡ Schnelle und einfache Bedienung
-- 🎯 Fokus auf das Wesentliche ohne Ablenkungen
+LernFlash ist eine einfache Lern-App für iOS, die sich auf **effizientes Wiederholen von Lernkarten** konzentriert.
+Die App verzichtet bewusst auf komplexe Funktionen und bietet stattdessen eine **klare und schnelle Lernoberfläche**.
 
-## App Store
+---
 
-Die App wird im Apple App Store verfügbar sein.
+# 🌐 Website
 
-## Screenshots
+Die offizielle Website der App:
 
-(Screenshots der App können hier eingefügt werden)
+https://USERNAME.github.io/lernflash/
 
-## Support
+Seiten der Website:
 
-Wenn du Fragen oder Probleme mit der App hast, kannst du uns hier kontaktieren:
+* 🏠 Startseite
+* 📬 Support
+* 🔒 Datenschutz
+* ⚖️ Impressum
 
-lernflash@posteo.de 
+---
 
-## Privacy Policy
+# ✨ Features
 
-LernFlash sammelt keine persönlichen Daten.
+* 📚 Digitale Flashcards
+* 🔁 Wiederholungssystem für nachhaltiges Lernen
+* ⚡ Schnelle und einfache Bedienung
+* 🎯 Fokus auf das Wesentliche
+* 🔒 Keine Datensammlung
 
-Die App verwendet keine Tracking- oder Analyse-Tools und gibt keine Informationen an Dritte weiter.
+---
 
-## Website
+# 🖥 Website Architektur
 
-Die offizielle Projektseite:
-https://kaeptnslow.github.io/lernflash/
+Die Website wird über **GitHub Pages** bereitgestellt und besteht aus einer kleinen statischen Struktur.
 
+```text
+/
+├── index.html
+├── support.html
+├── privacy.html
+├── imprint.html
+└── styles.css
+```
 
-## Entwickler
+| Datei        | Beschreibung                  |
+| ------------ | ----------------------------- |
+| index.html   | Landingpage der App           |
+| support.html | Support- und Kontaktseite     |
+| privacy.html | Datenschutzrichtlinie         |
+| imprint.html | Impressum                     |
+| styles.css   | Zentrales CSS für alle Seiten |
 
-Entwickelt von Kaeptnslow
+---
+
+# 🛠 Technologie
+
+Die Website verwendet bewusst eine **sehr einfache technische Struktur**.
+
+Technologien:
+
+* HTML
+* CSS
+* GitHub Pages
+
+Es werden **keine Frameworks, Tracker oder externe Bibliotheken** verwendet.
+
+---
+
+# 📬 Support
+
+Bei Fragen oder Problemen mit der App:
+
+📧 [lernflash@posteo.de](mailto:lernflash@posteo.de)
+
+---
+
+# 🔒 Datenschutz
+
+LernFlash sammelt **keine personenbezogenen Daten**.
+
+Weitere Informationen findest du hier:
+
+https://USERNAME.github.io/lernflash/privacy.html
+
+---
+
+# ⚖️ Impressum
+
+Kai Wolfram
+Schönbachstrasse 63G
+04299 Leipzig
+Deutschland
+
+Kontakt:
+
+[lernflash@posteo.de](mailto:lernflash@posteo.de)
+
+---
+
+# 🚀 Deployment
+
+Die Website wird automatisch über **GitHub Pages** veröffentlicht.
+
+Nach Änderungen im Repository ist sie verfügbar unter:
+
+https://USERNAME.github.io/lernflash/
+
+---
+
+# 📄 Lizenz
+
+Dieses Repository enthält ausschließlich die Website zur App **LernFlash**.
