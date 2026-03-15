@@ -15,7 +15,7 @@ Die App verzichtet bewusst auf komplexe Funktionen und bietet stattdessen eine *
 
 Die offizielle Website der App:
 
-https://USERNAME.github.io/lernflash/
+https://kaeptnslow.github.io/lernflash/
 
 Seiten der Website:
 
@@ -24,6 +24,13 @@ Seiten der Website:
 * 🔒 Datenschutz
 * ⚖️ Impressum
 
+Direkte Links:
+
+* https://kaeptnslow.github.io/lernflash/
+* https://kaeptnslow.github.io/lernflash/support.html
+* https://kaeptnslow.github.io/lernflash/privacy.html
+* https://kaeptnslow.github.io/lernflash/imprint.html
+
 ---
 
 # ✨ Features
@@ -31,7 +38,7 @@ Seiten der Website:
 * 📚 Digitale Flashcards
 * 🔁 Wiederholungssystem für nachhaltiges Lernen
 * ⚡ Schnelle und einfache Bedienung
-* 🎯 Fokus auf das Wesentliche
+* 🎯 Minimalistisches Interface
 * 🔒 Keine Datensammlung
 
 ---
@@ -40,7 +47,7 @@ Seiten der Website:
 
 Die Website wird über **GitHub Pages** bereitgestellt und besteht aus einer kleinen statischen Struktur.
 
-```text
+```
 /
 ├── index.html
 ├── support.html
@@ -85,9 +92,9 @@ Bei Fragen oder Problemen mit der App:
 
 LernFlash sammelt **keine personenbezogenen Daten**.
 
-Weitere Informationen findest du hier:
+Weitere Informationen:
 
-https://USERNAME.github.io/lernflash/privacy.html
+https://kaeptnslow.github.io/lernflash/privacy.html
 
 ---
 
@@ -110,7 +117,7 @@ Die Website wird automatisch über **GitHub Pages** veröffentlicht.
 
 Nach Änderungen im Repository ist sie verfügbar unter:
 
-https://USERNAME.github.io/lernflash/
+https://kaeptnslow.github.io/lernflash/
 
 ---
 
