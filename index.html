@@ -6,19 +6,11 @@
   <title>LernFlash</title>
   <meta name="description" content="LernFlash ist eine minimalistische iOS-App zum Lernen mit digitalen Flashcards.">
   <link rel="stylesheet" href="styles.css">
+  <script defer src="header.js"></script>
+  <script defer src="footer.js"></script>
 </head>
-<body>
-  <header class="site-header">
-    <div class="container header-inner">
-      <a class="brand" href="index.html">LernFlash</a>
-      <nav class="nav" aria-label="Hauptnavigation">
-        <a href="index.html" class="active">Start</a>
-        <a href="support.html">Support</a>
-        <a href="privacy.html">Datenschutz</a>
-        <a href="imprint.html">Impressum</a>
-      </nav>
-    </div>
-  </header>
+<body data-page="index">
+  <site-header></site-header>
 
   <main class="main">
     <div class="container">
@@ -33,6 +25,7 @@
         <div class="button-row">
           <a class="button primary" href="support.html">Support ansehen</a>
           <a class="button" href="privacy.html">Datenschutz lesen</a>
+          <a class="button" href="eula.html">EULA öffnen</a>
         </div>
       </section>
 
@@ -51,7 +44,7 @@
           <h2>Informationen</h2>
           <p>
             Auf dieser Website findest du alle wichtigen Informationen zur App,
-            einschließlich Support, Datenschutz und Impressum.
+            einschließlich Support, Datenschutz, Impressum und EULA.
           </p>
           <p class="small muted">
             Entwickler: <span class="codeish">Kai Wolfram</span>
@@ -69,16 +62,6 @@
     </div>
   </main>
 
-  <footer class="site-footer">
-    <div class="container footer-inner">
-      <div class="footer-links" aria-label="Footer Navigation">
-        <a href="index.html">Start</a>
-        <a href="support.html">Support</a>
-        <a href="privacy.html">Datenschutz</a>
-        <a href="imprint.html">Impressum</a>
-      </div>
-      <p class="small muted">© 2026 LernFlash · Kai Wolfram</p>
-    </div>
-  </footer>
+  <site-footer></site-footer>
 </body>
 </html>
