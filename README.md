@@ -33,7 +33,7 @@ Die App verwendet keine Tracking- oder Analyse-Tools und gibt keine Informatione
 ## Website
 
 Die offizielle Projektseite:
-[[https://kaeptnslow.github.io/lernflash/]]
+https://kaeptnslow.github.io/lernflash/
 
 
 ## Entwickler
